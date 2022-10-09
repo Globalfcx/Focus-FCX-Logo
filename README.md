@@ -15,7 +15,3 @@ High Quality Golden logo with no background
 Golden logo 110x100px
 
 ![LOGO NEW 110x110](https://user-images.githubusercontent.com/61139827/194752712-2e9dc3f6-05aa-4ab8-8a1b-0b6820246869.png)
-
-Black logo with white background
-
-![Uploading new logo.jpg…]()
